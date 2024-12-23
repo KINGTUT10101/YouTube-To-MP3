@@ -1,5 +1,5 @@
 @ECHO OFF
 :START
-py "I:\Python\YouTube To MP3\main.py"
+py ".\main.py"
 GOTO START
 PAUSE
